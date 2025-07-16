@@ -14,4 +14,4 @@ gh auth refresh -h github.com -s delete_repo
 
 git commit -m "first push"
 
-git push origin main
+git push
